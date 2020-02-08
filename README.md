@@ -3,6 +3,7 @@
 ## How to use
 
 Clone the repo
+
 Install it and run:
 
 ```sh
