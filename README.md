@@ -1,6 +1,6 @@
 # Blank React App example
 
-### How to use
+### How to use this:
 
 1. Clone the repo
 2. Run these commands:
