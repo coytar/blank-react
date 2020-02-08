@@ -1,10 +1,9 @@
 # Blank React App example
 
-## How to use
+### How to use
 
-Clone the repo
-
-Install it and run:
+1. Clone the repo
+2. Run these commands:
 
 ```sh
 npm install
